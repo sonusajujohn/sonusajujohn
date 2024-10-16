@@ -1,4 +1,7 @@
 ## Hi there 👋
+## WELCOME TO MY GIT-PAGE
+	> EXPLORE MY PROJECTS 
+
 
 <!--
 **sonusajujohn/sonusajujohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
