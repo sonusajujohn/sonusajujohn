@@ -1,79 +1,48 @@
-## Hi there 👋
-## WELCOME TO MY GIT-PAGE
-	> EXPLORE MY PROJECTS 
+<h1 align="center">Hi 👋, I'm Sonu Saju John</h1>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Description of the image">
 
-\documentclass[a4paper,10pt]{article}
-\usepackage[a4paper,margin=1in]{geometry}
-\usepackage{enumitem}
-\usepackage{hyperref}
-\usepackage{xcolor}
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonusajujohn&label=Profile%20views&color=0e75b6&style=flat" alt="sonusajujohn" /> </p>
 
-\hypersetup{
-    colorlinks=true,
-    linkcolor=blue,
-    urlcolor=blue
-}
+- 💬 Ask me about *React.js, Node.js, Express.js, MongoDB*
 
-\pagestyle{empty}
+- 📫 How to reach me *sonujohnsaju@gmail.com*
 
-\begin{document}
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sonu-saju-john-780a5924a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="sonu-saju-john" height="30" width="40" /></a>
+</p>
 
-\begin{center}
-    {\Huge \textbf{Sonu Saju John}} \\
-    21 Aug 2001 \\
-    \href{mailto:sonujohnsaju@gmail.com}{sonujohnsaju@gmail.com} | +91 9567992613 | Trivandrum, India \\
-    \href{https://github.com/sonusajujohn}{github.com/sonusajujohn} | \href{https://www.linkedin.com/in/sonu-saju-john-780a5924a}{LinkedIn Profile}
-\end{center}
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+    </a> 
+</p>
 
-\section*{Education}
-\begin{itemize}[leftmargin=*]
-    \item \textbf{B.Tech in Computer Science and Engineering} \\
-          Marian Engineering College, APJ Abdul Kalam Technological University \\
-          Jun 2020 – Jun 2024 | CGPA: 7.79 | Trivandrum, India
-    \item \textbf{AISSCE (Class XII)} \\
-          Bharatiya Vidya Bhavan | Grade: 82.2\% \\
-          Jun 2018 – Jun 2020 | Trivandrum, India
-    \item \textbf{CBSE Class X} \\
-          Bharatiya Vidya Bhavan | Grade: 88\% \\
-          Jun 2018 | Trivandrum, India
-\end{itemize}
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonusajujohn&show_icons=true&locale=en&layout=compact" alt="sonusajujohn" /></p>
 
-\section*{Projects}
-\begin{itemize}[leftmargin=*]
-    \item \textbf{CINETICK: An Online Movie Ticket Booking App} \\
-          Built using MERN stack. Features include user authentication, seat selection, trailer previews, and admin management tools.
-          \hfill \textit{Nov 2024}
-    \item \textbf{Authentication \& Document Digitization Using Blockchain Technology} \\
-          Focused on document digitization for flood-affected areas. Built with React.js and Node.js.
-          \hfill \textit{May 2024}
-    \item \textbf{Hospital Management System (HMS)} \\
-          A database management system using HTML, CSS, and Python.
-          \hfill \textit{Jul 2023}
-    \item \textbf{Home Security System} \\
-          Utilized sensors like PIR, BMP, Ultrasonic, ESP8266, and RFID for security measures.
-          \hfill \textit{May 2023}
-\end{itemize}
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonusajujohn&show_icons=true&locale=en" alt="sonusajujohn" /></p>
 
-\section*{Courses}
-\begin{itemize}[leftmargin=*]
-    \item \textbf{Full Stack Development - MERN}, ICT Academy, Trivandrum \\
-          Focused on MongoDB, Express.js, React.js, and Node.js. \\
-          \textit{Aug 2024 – Nov 2024}
-\end{itemize}
-
-\section*{Programming Languages}
-HTML, CSS, SQL, Python, Node.js, React.js
-
-\section*{Certificates}
-\begin{itemize}[leftmargin=*]
-    \item Internship Programme in IoT and Machine Learning, C-DAC Technopark, Trivandrum
-    \item HTML \& CSS Course Completion Certificate, UNSTOP
-\end{itemize}
-
-\section*{Skills}
-Hard Working, Adaptability, Creative Thinking, Self-Discipline, Time Management, Problem-Solving, Teamwork, Critical Thinking
-
-\vfill
-\textbf{Declaration:} I hereby declare that the details furnished above are true to the best of my knowledge and belief.
-
-\end{document}
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonusajujohn&" alt="sonusajujohn" /></p>
