@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sonu-saju-john-780a5924a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="sonu-saju-john" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sonu-saju-john-780a5924a/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-black-and-white-logos/1000/2018_social_media_popular_app_logo_linkedin-512.png" alt="sonu-saju-john" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
