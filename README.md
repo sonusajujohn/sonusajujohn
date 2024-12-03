@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sonu-saju-john-780a5924a/" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png" alt="sonu-saju-john" height="30" width="40" /></a>
-    <p>Linked In</p>
+<a href="https://www.linkedin.com/in/sonu-saju-john-780a5924a/" target="blank">Linked In<img align="center" src="https://i.pinimg.com/originals/b2/f8/28/b2f828513f21444829a619ce563d4d4e.png" alt="sonu-saju-john" height="30" width="40" /></a>
+    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
