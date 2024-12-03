@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonusajujohn&label=Profile%20views&color=0e75b6&style=flat" alt="sonusajujohn" /> </p>
 
-- 💬 Ask me about *React.js, Node.js, Express.js, MongoDB*
+- 💬 Ask me about *HTML, CSS, React.js, Node.js, Express.js, MongoDB, SQL, Python, C, C++*
 
 - 📫 How to reach me *sonujohnsaju@gmail.com*
 
