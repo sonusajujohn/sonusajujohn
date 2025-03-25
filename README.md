@@ -45,9 +45,7 @@
     <a href="https://mui.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/>
     </a>
-    <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-        <img src="[ui&docid=bx3oECBkQAA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLEcJD2COzKbWlWYdOwWdgR3nhFMJRYAFBmA&s))" alt="chakra-ui" width="40" height="40"/>
-    </a>
+  
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
