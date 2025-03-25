@@ -46,7 +46,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/>
     </a>
     <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-        <img src="[L5vQXmj5Bw9tDSEaAA/+mSsMs55So6xoC0rgd8lNZ7rJNN1Ly9Aot8KImjFXt55ZnmTlN1LoECTB0GagPfdNRJ43l3jffSJBAnrI2vgv3//cPhnVq/475/p5H5qdfBdZCY4PEX294AHf9MZ1qz6BkO+yy36eJc7GNC66elt9YD5TdI3BBls0S5AeumIkBLuTbxDue7FB3yCyMH+4CdEm34vo970I2OesdL9nVQpgEEnc8RpX9uoU3Y134FjLwJHovr9bVCm/HpDpT2LmAYmI96jqkeA9JkbogPjUZXy0IMd+hHJDtzAdOendo45ehgWKQPHUK0dKoHgmKdg7ShFal2sxoTZTuAMOSHG37R/v0gKDUkaSiGKb7l/TUyPuXa9kKHeH79BfnZiUey1/Wmt6BVOVWq9IJoXmbLQkVLqrJj370FYIVosc0W5lBU7td/+FXo3xKtDXsnEj5tZkdNyX6yG8h7cEM+Pm3WmVMXzpYi2+h8hhM7Wu+Xsb7K7Iy5nk+0uzbNQVdBan/8JszzdHI6n8qvFJhVRFJdlskjKMo7+1o3z8PDw8PDw8PDw8PDw8PD4AvwDY6qo0tGrG2sAAAAASUVORK5CYII=](https://www.google.com/imgres?q=chakra%20ui%20icon&imgurl=https%3A%2F%2Fimg.icons8.com%2F%3Fsize%3D512%26id%3Dr9QJ0VFFrn7T%26format%3Dpng&imgrefurl=https%3A%2F%2Ficons8.com%2Ficon%2Fr9QJ0VFFrn7T%2Fchakra-ui&docid=bxa0X97uSpFONM&tbnid=MiA040BgLxlouM&vet=12ahUKEwiwvef6s6WMAxV64zgGHQAdFfUQM3oECBkQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiwvef6s6WMAxV64zgGHQAdFfUQM3oECBkQAA)" alt="chakra-ui" width="40" height="40"/>
+        <img src="[ui&docid=bx3oECBkQAA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLEcJD2COzKbWlWYdOwWdgR3nhFMJRYAFBmA&s))" alt="chakra-ui" width="40" height="40"/>
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
